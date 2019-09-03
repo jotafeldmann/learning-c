@@ -16,7 +16,8 @@ gcc -o FILE_NAME FILE_NAME.c
 
 ## Roadmap
 
-- Single linked list
+- [x] Hello World
+- [ ] Single linked list
 
 ## References
 
