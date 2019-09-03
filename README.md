@@ -1,4 +1,4 @@
-# LEarning C language
+# Learning C language
 
 Learning C in a ludic way.
 
