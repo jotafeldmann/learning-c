@@ -14,10 +14,9 @@ gcc -o FILE_NAME FILE_NAME.c
 ./FILE_NAME
 ```
 
-## Roadmap
+## Files
 
-- [x] Hello World
-- [ ] Single linked list
+- Hello World
 
 ## References
 
